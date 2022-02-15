@@ -1,0 +1,1 @@
+export const CRAWLER = `\u001b[34;1m[binahTAS crawler]\u001b[0m`;
